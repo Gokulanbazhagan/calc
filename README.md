@@ -23,9 +23,8 @@ Validate the HTML and CSS code.
 
 ### Step 6:
 Publish the website in the given URL.
-
+```
 ## PROGRAM :
-'''
 calc.html
 
 <!DOCTYPE html>
@@ -155,7 +154,7 @@ h1{
     font-family: 'Courier New', Courier, monospace;
 }
 
-'''
+```
 ## OUTPUT:
 ![OUTPUT](./out.png)
 
